@@ -13,3 +13,6 @@ wheels/
 
 # uv package and project manager
 uv.lock
+
+# Logging
+game_state.jsonl
