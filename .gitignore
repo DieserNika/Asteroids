@@ -16,3 +16,4 @@ uv.lock
 
 # Logging
 game_state.jsonl
+game_events.jsonl
